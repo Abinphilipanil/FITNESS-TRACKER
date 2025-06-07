@@ -10,7 +10,4 @@ The Fitness Tracker App is a **Streamlit-based** web application that helps user
 - ❓ **AI Q&A Forum** – Ask fitness-related questions and receive AI-generated answers.
 - 📊 **Data Persistence** – Stores user data and forum discussions in CSV files.
 
-## **Installation**
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/YOUR_GITHUB_USERNAME/Fitness-Tracker-App.git
+
